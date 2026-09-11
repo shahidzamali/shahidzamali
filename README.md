@@ -144,36 +144,6 @@ I enjoy working with **Java, backend technologies, databases and modern frontend
 
 ---
 
-# 🚀 Featured Projects
-
-> 📌 Real-world projects will be added here as they are completed.
-
-### 🔥 Java Full Stack Project
-
-**Coming Soon**
-
-A production-style full-stack application built using Java backend technologies, database integration and a modern frontend.
-
-`Java` `Spring Boot` `REST API` `MySQL` `HTML` `CSS` `JavaScript`
-
----
-
-### ⚡ Full Stack Web Application
-
-**Coming Soon**
-
-A practical web application focused on clean UI, backend integration, authentication and database operations.
-
-`Java` `Spring Boot` `React` `MySQL`
-
----
-
-### 🛠️ More Projects
-
-I'm continuously building and uploading projects to demonstrate my learning and development journey.
-
----
-
 # 🧠 LeetCode Journey
 
 <p align="center">
@@ -191,63 +161,6 @@ I'm continuously building and uploading projects to demonstrate my learning and 
 
 ---
 
-# 📈 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahidzamali&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahidzamali&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=shahidzamali&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shahidzamali&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7"/>
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shahidzamali/shahidzamali/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-</p>
-
-<p align="center">
-  <i>Every contribution represents one more step forward. 🚀</i>
-</p>
-
----
-
-# 📊 My Coding Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahidzamali&theme=tokyo-night&hide_border=true" width="100%"/>
-</p>
-
----
-
-# 🎯 2026 Goals
-
-```text
-☑ Strengthen Core Java
-☑ Master Object-Oriented Programming
-☑ Learn Advanced Java
-☑ Practice JDBC & SQL
-☐ Master Spring & Spring Boot
-☐ Build production-ready Full Stack applications
-☐ Improve DSA & problem solving
-☐ Contribute to Open Source
-☐ Build a strong developer portfolio
-☐ Land a Software Engineering Internship / Role
-```
-
----
 
 # 🤝 Let's Connect
 
