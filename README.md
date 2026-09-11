@@ -1,40 +1,213 @@
-# 💫 Hi 👋, I'm Md Shahid Zamali
-**Coding in Java | Full Stack developer ( MERN ) | MongoDB, Express.JS, React.JS, Node.JS Developer | Aspiring Software Engineer**
+# Hi 👋, I'm Md Shahid Zamali
 
-Email Me 👉 ✉️ **sr29112006@gmail.com** For Internship & Job / Project or Anything Else. 😊😊
+### ☕ Java Full Stack Developer | Software Engineer Aspirant
 
-- 🔭 **I’m currently working on:** Real Time Web Project
-- 🌱 **I’m currently learning:** Full Stack 
-- 💬 **Ask me about:**Internship , Tech Support
-- 📫 **How to reach me:** sr29112006@gmail.com
-- 😄 **Pronouns:** Shahid
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zam_world_05) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Md Shahid Zamali) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sr29112006@gmail.com) 
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shahidzamali&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=shahidzamali&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shahidzamali&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shahidzamali&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=shahidzamali&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="left">
+  <a href="https://github.com/shahidzamali">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/md-shahid-zamali-6b0095313/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://mdshahidzamali.me">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://leetcode.com/u/mdshahidzamali/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=shahidzamali&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+I'm **Md Shahid Zamali**, a **Java Full Stack Developer** focused on building reliable, scalable, and user-friendly web applications.
+
+I enjoy solving problems with **Java**, understanding how software works behind the scenes, and continuously improving my development skills through hands-on practice and projects.
+
+* ☕ Strong foundation in **Core Java & Object-Oriented Programming**
+* 🌐 Learning and building with **Java Full Stack technologies**
+* 🧩 Interested in **backend development, REST APIs & database-driven applications**
+* 🗄️ Working with **SQL, MySQL & database connectivity**
+* 💻 Practicing **Data Structures & Algorithms**
+* 🔧 Exploring modern development tools and frameworks
+* 🎯 Goal: Become a strong **Software Engineer / Java Full Stack Developer**
+* 💼 Open to **Internship & Entry-Level Opportunities**
+
+---
+
+## 🛠️ Technical Skills
+
+### ☕ Java & Programming
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-007396?style=for-the-badge\&logo=java\&logoColor=white)
+![Collections](https://img.shields.io/badge/Collections-007396?style=for-the-badge\&logo=java\&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge\&logo=java\&logoColor=white)
+
+**Core Java • OOP • Exception Handling • Collections • File Handling • JDBC • Advanced Java**
+
+### 🌐 Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+
+### ⚙️ Backend & Frameworks
+
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge\&logo=hibernate\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge\&logo=fastapi\&logoColor=white)
+
+**Spring • Spring Boot • Hibernate/JPA • REST APIs • Advanced Java**
+
+### 🗄️ Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+
+**SQL • MySQL • MongoDB • Database Connectivity**
+
+### 🔧 Tools & Development
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge\&logo=intellij-idea\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+
+---
+
+## 📚 Currently Learning & Improving
+
+```text
+Java
+ ├── Core Java
+ ├── OOP
+ ├── Exception Handling
+ ├── Collections Framework
+ ├── File Handling
+ ├── JDBC
+ └── Advanced Java
+
+Java Full Stack
+ ├── Spring
+ ├── Spring Boot
+ ├── Hibernate / JPA
+ ├── REST APIs
+ ├── SQL / MySQL
+ ├── HTML / CSS / JavaScript
+ └── React
+
+Problem Solving
+ └── Data Structures & Algorithms
+```
+
+---
+
+## 🚀 Featured Projects
+
+> 🚧 Projects section is being updated.
+> Real-world Java Full Stack projects will be added here as they are completed.
+
+### 🔹 Project 01
+
+**Coming Soon**
+
+A Java Full Stack project demonstrating backend development, database integration, REST APIs, and frontend interaction.
+
+### 🔹 Project 02
+
+**Coming Soon**
+
+A full-stack application focused on solving a practical problem using Java-based backend technologies.
+
+### 🔹 Project 03
+
+**Coming Soon**
+
+A project showcasing application architecture, database operations, API integration, and clean coding practices.
+
+---
+
+## 💻 Problem Solving
+
+I'm actively improving my **Data Structures & Algorithms** and problem-solving skills.
+
+### 🧠 LeetCode
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-mdshahidzamali-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/mdshahidzamali/)
+
+I use problem solving to strengthen:
+
+* Arrays & Strings
+* Searching & Sorting
+* Recursion
+* Linked Lists
+* Stack & Queue
+* Hashing
+* Trees
+* Algorithms & Complexity
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shahidzamali&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahidzamali&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=shahidzamali&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Contributions
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shahidzamali&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in connecting with developers, recruiters, and organizations working on interesting software projects.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/md-shahid-zamali-6b0095313/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://mdshahidzamali.me">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/mdshahidzamali/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+</p>
+
+---
+
+### 📫 Contact
+
+**Email:** [sr29112006@gmail.com](mailto:sr29112006@gmail.com)
+
+**Portfolio:** [mdshahidzamali.me](https://mdshahidzamali.me)
+
+**LinkedIn:** [Md Shahid Zamali](https://www.linkedin.com/in/md-shahid-zamali-6b0095313/)
+
+---
+
+<p align="center">
+  <i>“Learning every day. Building consistently. Growing as a Software Engineer.”</i>
+</p>
+
+<p align="center">
+  ⭐ If you find my work interesting, feel free to explore my repositories.
+</p>
